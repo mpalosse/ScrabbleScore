@@ -4,8 +4,8 @@
 ### Prénom : YYY
 ### Groupe de TP :
 - [ ] A1
-- [ ] A2
-- [ ] A3D
+- [ ] A3
+- [ ] A2.A4.D
 
 ### Consignes générales
 
