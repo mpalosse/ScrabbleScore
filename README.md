@@ -3,9 +3,9 @@
 ### NOM : XXX
 ### Prénom : YYY
 ### Groupe de TP :
-- [ ] A1
-- [ ] A3
-- [ ] A2.A4.D
+- [ ] A1-A2
+- [ ] A3-A4
+- [ ] D
 
 ### Consignes générales
 
